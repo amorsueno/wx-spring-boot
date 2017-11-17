@@ -8,7 +8,12 @@ import org.springframework.stereotype.Component;
 import javax.servlet.*;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:02
+ *
+ */
 @Component
 @Log4j2
 public class RequestAccessFilter implements  javax.servlet.Filter{

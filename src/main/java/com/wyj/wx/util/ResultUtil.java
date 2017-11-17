@@ -1,7 +1,12 @@
 package com.wyj.wx.util;
 
-import com.wyj.wx.entity.Result;
-
+import com.wyj.wx.base.Result;
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:03
+ *
+ */
 public class ResultUtil {
     //当正确时返回的值
     public static Result success(Object data){

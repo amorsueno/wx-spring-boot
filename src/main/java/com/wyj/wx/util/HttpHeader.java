@@ -1,5 +1,10 @@
 package com.wyj.wx.util;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:02
+ *
+ */
 public class HttpHeader {
     //请求Header Accept
     public static final String HTTP_HEADER_ACCEPT = "Accept";

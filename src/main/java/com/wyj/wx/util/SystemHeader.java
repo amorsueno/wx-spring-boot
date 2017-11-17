@@ -1,5 +1,10 @@
 package com.wyj.wx.util;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:02
+ *
+ */
 public class SystemHeader {
     //签名Header
     public static final String X_CA_SIGNATURE = "X-Ca-Signature";

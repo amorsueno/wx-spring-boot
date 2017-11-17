@@ -1,7 +1,12 @@
 package com.wyj.wx.util;
 
 import java.util.Date;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:02
+ *
+ */
 public class BaseResponse<T>  {
     /**
      * 返回码

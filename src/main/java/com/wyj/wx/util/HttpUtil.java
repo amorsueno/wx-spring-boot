@@ -41,7 +41,12 @@ import org.apache.http.conn.scheme.Scheme;
 import org.apache.http.conn.scheme.SchemeRegistry;
 import org.apache.http.conn.ssl.SSLSocketFactory;
 import org.apache.http.impl.client.DefaultHttpClient;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:02
+ *
+ */
 public class HttpUtil {
     /**
      * HTTP GET

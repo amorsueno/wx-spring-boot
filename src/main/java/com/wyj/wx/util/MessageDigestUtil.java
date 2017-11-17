@@ -5,7 +5,12 @@ import org.apache.commons.codec.binary.Base64;
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:02
+ *
+ */
 public class MessageDigestUtil {
     /**
      * 先进行MD5摘要再进行Base64编码获取摘要字符串

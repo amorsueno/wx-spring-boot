@@ -2,7 +2,12 @@ package com.wyj.wx.util;
 
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:03
+ *
+ */
 public class Response {
     private int statusCode;
     private String contentType;

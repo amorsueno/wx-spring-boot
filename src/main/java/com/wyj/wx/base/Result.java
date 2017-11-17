@@ -1,7 +1,12 @@
-package com.wyj.wx.entity;
+package com.wyj.wx.base;
 
 import lombok.Data;
-
+/**
+ * @Author:amorsueno
+ * @Description:
+ * @Date: 2017/11/17 17:03
+ *
+ */
 @Data
 public class Result<T> {
     private int code;//状态码
